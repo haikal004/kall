@@ -8,7 +8,7 @@
 
    ```bash
    # clone repo dengan git command berikut
-   $ git clone https://github.com/kal04/ucapan-ultah.git
+   $ git clone https://github.com/haikal004/ucapan-ultah.git
 
    # masuk ke folder project
    $ cd ucapan-ultah
