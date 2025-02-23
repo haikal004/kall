@@ -1,6 +1,6 @@
 ## ✨ Website ucapan ulang tahun
 
-[demo](kall-lokum-691ad7.netlify.app)
+[demo]([(http://kall-lokum-691ad7.netlify.app)]
 
 ## 🚀 Quick start
 
@@ -8,7 +8,7 @@
 
    ```bash
    # clone repo dengan git command berikut
-   $ git clone https://github.com/haikal004/ucapan-ultah.git
+   $ git clone http://kall-lokum-691ad7.netlify.app
 
    # masuk ke folder project
    $ cd ucapan-ultah
